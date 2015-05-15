@@ -1,3 +1,18 @@
+---
+title: "Statistical Inference Course Notes"
+author: "Andrey G"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: 3
+  html_document:
+    highlight: pygments
+    theme: spacelab
+    toc: yes
+  word_document: default
+---
+
+
 # w2
 
 ```
